@@ -1,0 +1,1 @@
+funciones generalizadas para traer la DB. Usables en controllers/middlewares
